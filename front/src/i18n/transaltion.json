@@ -1,0 +1,23 @@
+{
+    "en": {
+        "auth": {
+            "login": "Login",
+            "register": "register"
+        }
+    },
+    "fr": {
+        "auth": {
+            "login": "Se Connecter"
+        }
+    },
+    "ar": {
+        "auth": {
+            "login": "تسجيل الدخول"
+        }
+    },
+    "es": {
+        "auth": {
+            "login": "Iniciar sesión"
+        }
+    }
+}

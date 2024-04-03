@@ -1,0 +1,28 @@
+.top-nav {
+  display: flex;
+  background-color: var(--primary-color);
+  color: #fff;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.top-nav h1 {
+  font-size: 14px;
+  font-weight: 200;
+}
+.top-nav-phone {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  margin-left: 50px;
+}
+.top-nav-end {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  margin-right: 50px;
+}
+.navigation .logo {
+  width: 100px;
+  height: 100px;
+}
